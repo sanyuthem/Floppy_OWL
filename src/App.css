@@ -8,7 +8,7 @@
 }
 
 .background {
-  background-image: url("./images/back.png");
+  background-image: url("../public/images/back.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -20,14 +20,14 @@
 
 .bird {
   position: absolute;
-  background-image: url("./images/yellowbird-upflap.png");
+  background-image: url("../public/images/yellowbird-upflap.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .obj {
   position: absolute;
-  background-image: url("./images/pipe-green.png");
+  background-image: url("../public/images/pipe-green.png");
   background-size: cover;
   transform-origin: center;
 }
